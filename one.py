@@ -1,1 +1,2 @@
 print("gau")
+print("gay")
