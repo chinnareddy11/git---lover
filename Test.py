@@ -1,6 +1,2 @@
 print("hai")
-print("new")
-print("te")
-print("")
-print("i knew it")
 print('let me do')
