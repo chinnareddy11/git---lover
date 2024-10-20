@@ -1,4 +1,3 @@
 print("hai")
-print("new")
-print("te")
-print("")
+print("one kas")
+print('let me do')
